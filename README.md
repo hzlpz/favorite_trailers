@@ -18,7 +18,7 @@ Once you have Python installed on your computer, go ahead and download the progr
 movie_trailer_site to your computer (make sure all files are saved in the same directory),and
 make sure that you are in the folder movie_trailer_site, and then run the following command in the terminal:
 
-python entertainment_center.py
+`python entertainment_center.py`
 
 This command should open up your default browser to display Five Documentaries and One TV Show.
 
